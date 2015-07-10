@@ -1,0 +1,14 @@
+groups:
+recipes:
+attributes:
+    homebrewalt:
+        apps:
+            - git-extras
+        cask_apps:
+            - sublime-text3
+            - sourcetree
+            - java
+            - intellij-idea
+            - virtualbox
+            - vagrant
+            - iterm2
