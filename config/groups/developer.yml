@@ -3,6 +3,9 @@ recipes:
 attributes:
     homebrewalt:
         apps:
+            - activemq
+            - maven
+            - git
             - git-extras
         cask_apps:
             - sublime-text3

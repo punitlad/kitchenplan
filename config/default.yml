@@ -5,6 +5,5 @@ recipes:                                       # Configs are parsed and every li
         - homebrewalt::default                 # Installs homebrew and homebrew cask and installs all apps mentioned in the homebrewalt:apps and homebrewalt:cask_apps attributes
 attributes:
     homebrewalt:
-        apps:
         cask_apps:
             - google-chrome
